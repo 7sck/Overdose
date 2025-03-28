@@ -2,6 +2,14 @@
 
 A lightweight, silent optimizer for Roblox that enhances performance and reduces resource usage. Overdose efficiently manages CPU, RAM, and thread utilization without modifying Roblox's memory or internal operations.
 
+## Performance Comparison
+
+#### *Without Overdose*
+![Before Optimization](https://files.catbox.moe/guxk2y.png)
+
+#### *With Overdose*
+![After Optimization](https://files.catbox.moe/alzg77.png)
+
 ## Features
 
 - Silent operation (no console window)
